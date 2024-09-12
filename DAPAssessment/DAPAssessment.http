@@ -1,0 +1,6 @@
+@DAPAssessment_HostAddress = http://localhost:5101
+
+GET {{DAPAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

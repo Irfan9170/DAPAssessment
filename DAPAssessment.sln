@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAPAssessment", "DAPAssessment\DAPAssessment.csproj", "{E4E4C12A-7D15-431C-95EF-DF351B242A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAPAssessment_MVC", "DAPAssessment_MVC\DAPAssessment_MVC.csproj", "{7F789A7A-7B7B-4BFB-B24B-4B408DEC9487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E4C12A-7D15-431C-95EF-DF351B242A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E4C12A-7D15-431C-95EF-DF351B242A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E4C12A-7D15-431C-95EF-DF351B242A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E4C12A-7D15-431C-95EF-DF351B242A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F789A7A-7B7B-4BFB-B24B-4B408DEC9487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F789A7A-7B7B-4BFB-B24B-4B408DEC9487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F789A7A-7B7B-4BFB-B24B-4B408DEC9487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F789A7A-7B7B-4BFB-B24B-4B408DEC9487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22A47B4-BDC1-4842-BF7A-7B90D7B412FF}
+	EndGlobalSection
+EndGlobal
